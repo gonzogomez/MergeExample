@@ -8,6 +8,5 @@ public class Dog {
 	}
 
 	public void bark(){
-		System.out.printl("Woof");
 	}
 }
