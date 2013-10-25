@@ -8,5 +8,6 @@ public class Dog {
 	}
 
 	public void bark(){
+		
 	}
 }
