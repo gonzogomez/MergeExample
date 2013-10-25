@@ -7,7 +7,7 @@ public class Dog {
 		this.size = size;
 	}
 
-	public void bark(){
-		System.out.printl("Woof Woof");
+	public void bark() {
+		System.out.printl("Woof");
 	}
 }
